@@ -47,7 +47,7 @@ class artists:
         #Save scraped tags to the scraped_tags dataframe            
         scraped_tags=pd.DataFrame(np.array(taggs).reshape(j,j),columns=(['url','tag']))
         
-        #Commented out line below as it will override the scrapped tags dataframe 
+        #Commented out line below as it will override the scraped tags dataframe 
         #scraped_tags.to_csv('...path')
         print(scraped_tags)   
 
