@@ -5,3 +5,5 @@ The artist class contains the main recommendation engine function along with the
 
 The recommender_examples.ipynb notebook is included to illustrate the various functions at work.
 
+#### Aug 2020
+
